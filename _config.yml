@@ -1,8 +1,7 @@
 name: FDTRMS
 favicon: null
-layout_spectrum: 0.91172
-typography_spectrum: 0.28384
-title: Fire Service e-Training
+layout_spectrum: 0.9482120680622756
+typography_spectrum: 0.8593923626467586
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d3cfcc'
-    - '#8c8479'
-    - '#090909'
-    - '#ca5f4d'
-    - '#ffc538'
-  brandStrength: 0.6875
-  lightness: 0.4375
-  saturation: 0.4375
-  rhythmicContrast: 0.75
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9025763238314539
+  lightness: 0.9493110035546124
+  saturation: 0.9988110966514796
+  rhythmicContrast: 0.5164266445208341
 purpose: []
