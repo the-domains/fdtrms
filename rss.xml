@@ -4,7 +4,7 @@
         <description><![CDATA[Fire Service e-Training]]></description>
         <link>https://thegrid.ai/fdtrms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 13:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 13:37:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fdtrms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/fdtrms/40e91251-c695-4e3b-9b79-69e8bb69eeae/index.html</link>
             <guid isPermaLink="false">40e91251-c695-4e3b-9b79-69e8bb69eeae</guid>
             <pubDate>Mon, 18 Jan 2016 13:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/BnTIl82CMAAgC3C.jpg:large">]]></description>
+            <link>https://thegrid.ai/fdtrms/4ec7e399-c5d6-42d8-a66c-0423003a9b01/index.html</link>
+            <guid isPermaLink="false">4ec7e399-c5d6-42d8-a66c-0423003a9b01</guid>
+            <pubDate>Mon, 18 Jan 2016 13:37:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
